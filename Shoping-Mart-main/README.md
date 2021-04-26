@@ -1,2 +1,0 @@
-# Shoping-Mart
-Shoping-Mart
